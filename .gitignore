@@ -1,0 +1,64 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.nox/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+site/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/editor
+.idea/
+*.iml
+.vscode/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Project runtime artifacts
+runs/
+runs_old/
+results/
+results_old/
+cache/
+cache_old/
+chroma/
+
+# Generated dataset artifacts
+#data/squality/
+#data/retrieval_frozen.jsonl
+#data/corpus.jsonl
+#data/questions.jsonl
+#data/squality_meta.json
+
+# Logs/temp
+*.log
+*.tmp
+*.temp
