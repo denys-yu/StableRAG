@@ -1,0 +1,40 @@
+{"qid": "q_001", "question": "What phrase does the acronym RAG expand into?"}
+{"qid": "q_002", "question": "When the retriever runs, what does it output for the query?"}
+{"qid": "q_003", "question": "How is the generator expected to produce an answer in this harness?"}
+{"qid": "q_004", "question": "In simple terms, what is a text embedding?"}
+{"qid": "q_005", "question": "How is cosine similarity computed between two vectors?"}
+{"qid": "q_006", "question": "What does Chroma PersistentClient persist?"}
+{"qid": "q_007", "question": "What is the collection name used for chunk indexing in this project?"}
+{"qid": "q_008", "question": "How are tied retrieval results ordered deterministically?"}
+{"qid": "q_009", "question": "What overlap value is used between neighboring chunks?"}
+{"qid": "q_010", "question": "What chunk length is used by default in the harness?"}
+{"qid": "q_011", "question": "Why do we freeze retrieval before repeated LLM runs?"}
+{"qid": "q_012", "question": "What is the practical decoding effect of setting temperature to zero?"}
+{"qid": "q_013", "question": "What does top_p equal to one imply for nucleus sampling?"}
+{"qid": "q_014", "question": "What is the reason for using a fixed seed in these experiments?"}
+{"qid": "q_015", "question": "What does system_fingerprint represent in run logs?"}
+{"qid": "q_016", "question": "Why are Structured Outputs useful in this benchmark?"}
+{"qid": "q_017", "question": "What role does Pydantic play in the structured variant?"}
+{"qid": "q_018", "question": "What does JSONL format mean here?"}
+{"qid": "q_019", "question": "How long is a standard SHA-256 hex digest?"}
+{"qid": "q_020", "question": "Under what condition does a question get EMR equal to one?"}
+{"qid": "q_021", "question": "How do we estimate semantic similarity across repeated answers?"}
+{"qid": "q_022", "question": "How is the divergence index defined in this harness?"}
+{"qid": "q_023", "question": "What unit is used for latency_ms?"}
+{"qid": "q_024", "question": "What does p95 latency summarize?"}
+{"qid": "q_025", "question": "How is total token count calculated per run?"}
+{"qid": "q_026", "question": "Which Python standard module powers the command-line interface?"}
+{"qid": "q_027", "question": "What does python-dotenv load at startup?"}
+{"qid": "q_028", "question": "Which embedding model is configured by default?"}
+{"qid": "q_029", "question": "Which endpoint in this project exposes the seed option?"}
+{"qid": "q_030", "question": "What output is required when evidence is missing from context?"}
+{"qid": "q_031", "question": "Why does canonical rendering normalize whitespace?"}
+{"qid": "q_032", "question": "What does canonical rendering do to evidence indices?"}
+{"qid": "q_033", "question": "How does replay cache enforce repeatability for later repeats?"}
+{"qid": "q_034", "question": "What is the purpose of an ablation study in this benchmark?"}
+{"qid": "q_035", "question": "How would you describe a repeatability benchmark in one sentence?"}
+{"qid": "q_036", "question": "Where is the local Chroma persistence directory in this project?"}
+{"qid": "q_037", "question": "Which files contain the paper-ready summary outputs?"}
+{"qid": "q_038", "question": "How is a Markdown table structurally formatted?"}
+{"qid": "q_039", "question": "What page length target is commonly mentioned for IEEE conference papers?"}
+{"qid": "q_040", "question": "How can a user force a cold-cache replay experiment?"}
