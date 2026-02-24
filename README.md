@@ -1,5 +1,17 @@
 # RAG Repeatability Harness
 
+> **Attribution and Contact**
+>  
+> This repository is provided for research and educational purposes.
+> If you use this codebase, experiments, or ideas in your own work,
+> please acknowledge the author.
+>  
+> For questions, collaboration, or consulting related to RAG systems,
+> chunking strategies, experimental research pipelines, or designing stable repeatable RAG
+> you are welcome to contact the author or engage them as a consultant.
+>  
+> 🔗 LinkedIn: https://www.linkedin.com/in/dyuvzhenko
+
 Minimal experimental harness to evaluate repeatability of a simple RAG pipeline:
 
 - OpenAI API for generation and embeddings
